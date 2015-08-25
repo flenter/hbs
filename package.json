@@ -9,7 +9,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "handlebars": "3.0.0",
+    "handlebars": "git+https://github.com/blendlabs/handlebars.js.git#9d4353c35cc93cbc44125efcb2c4d348cb51cf06",
     "walk": "2.2.1"
   },
   "devDependencies": {
