@@ -9,7 +9,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "handlebars": "git+https://github.com/flenter/handlebars.js.git",
+    "handlebars": "https://github.com/flenter/handlebars.js/releases/download/0.0.4/handlebar-js.0.0.4.tgz",
     "walk": "2.2.1"
   },
   "devDependencies": {
